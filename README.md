@@ -1,1 +1,1 @@
-# [JSDZW1](https://gabdykalyk.github.io/ReactAjax/)
+# [ReactAjax](https://gabdykalyk.github.io/ReactAjax/)
