@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gabdykalyk/ReactAjax/static/css/main.8ad0c04e.css",
+    "main.js": "/gabdykalyk/ReactAjax/static/js/main.cc94eef6.js",
+    "static/js/787.39171690.chunk.js": "/gabdykalyk/ReactAjax/static/js/787.39171690.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/gabdykalyk/ReactAjax/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Black.ttf": "/gabdykalyk/ReactAjax/static/media/Roboto-Black.2a4285847db4a9acb97f.ttf",
+    "index.html": "/gabdykalyk/ReactAjax/index.html",
+    "main.8ad0c04e.css.map": "/gabdykalyk/ReactAjax/static/css/main.8ad0c04e.css.map",
+    "main.cc94eef6.js.map": "/gabdykalyk/ReactAjax/static/js/main.cc94eef6.js.map",
+    "787.39171690.chunk.js.map": "/gabdykalyk/ReactAjax/static/js/787.39171690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ad0c04e.css",
+    "static/js/main.cc94eef6.js"
+  ]
+}
